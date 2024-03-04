@@ -1,0 +1,19 @@
+{
+  "name": "mern-stack-challenge-backend",
+  "version": "1.0.0",
+  "description": "30 Days MERN Stack Challenge backend ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node.js",
+    "mongoDB"
+  ],
+  "author": "Vaibhav Matere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
